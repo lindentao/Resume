@@ -170,11 +170,11 @@ progress::-moz-progress-value {
 }
 
 .weixin{
-    margin-top: 10px;
-    /*background-color: #e0eaf0;   */
+    margin-top: 6px;
+    background-color: #e0eaf0;
     position: relative;
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 26px;
+    padding-bottom: 24px;
     text-align: center;
 }
 
@@ -206,7 +206,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 1550px;
+    height: 1600px;
     background-color: white;
 
 }
