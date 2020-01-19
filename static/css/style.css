@@ -206,7 +206,7 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 1600px;
+    height: 1700px;
     background-color: white;
 
 }
@@ -226,7 +226,6 @@ progress::-moz-progress-value {
     margin-left: 360px;
     min-height: 100%;
     padding: 20px;
-
 }
 
 .info-header:hover {
